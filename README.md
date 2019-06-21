@@ -28,6 +28,8 @@ As a result with updating the measurement and motion data, we can estimate where
 
 ![p6](https://cdn-images-1.medium.com/max/800/1*eQP8Bu8JpR672DRjzJyecw.png)<br/>
 
+Is a bit hard to explain the flow as most of the time is spent on the updating the omega and Xi. Will update the step by step concept flow for how to updating the Omega and Xi later<br/>
+
 -------------------------------------------------------------------------------------------------------------------------------------
 ### More about me
 [[:pencil:My Medium]](https://medium.com/@patrickhk)<br/>
